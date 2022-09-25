@@ -3,7 +3,7 @@
 > Front End Developer | JavaScript Developer | Autodidact | Problem Solver | Good Comunication | Smiling 😁.
 
 [My Portfolio](https://johanh0.github.io/My-Portfolio/)
-
+---
 ## About Me 
 The world saw me born in Colombia 🇨🇴, life took away my boundaries  and now I live in the USA 🇺🇸, I have an extreme hunger to learn and everyday I want to learn more 🧠, if I'm not learning, I'm dying, I found the code and in it I saw the opportunity to live a better life 👨‍💻, I have an unrelenting curiosity, everything that you can seeI do by my own it' beacuse I've learned on my own or I was blessed with somebody who teach me 🤝, I like to have interesting or funny conversations 💬, I like to read 📕, play guitar 🎸 and play soccer ⚽️, if I don't know something, I will learn it 💪.
 
@@ -13,3 +13,8 @@ The world saw me born in Colombia 🇨🇴, life took away my boundaries  and no
 - [Eventor ( WebApp for search local events )](https://github.com/Johanh0/Eventor)
 - [UltraBlog ( Blog about photography )](https://github.com/Johanh0/UltraBlog)
 - [Weather Broadcasts ( WebApp for search the weather )](https://github.com/Johanh0/Weather-Broadcast)
+
+## Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johanh0)](https://github.com/johanh0/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johanh0&theme=default&show_icons=true)
