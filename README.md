@@ -5,7 +5,23 @@
 [My Portfolio](https://johanh0.github.io/My-Portfolio/)
 ---
 ## About Me 
-The world saw me born in Colombia 🇨🇴, life took away my boundaries  and now I live in the USA 🇺🇸, I have an extreme hunger to learn and everyday I want to learn more 🧠, if I'm not learning, I'm dying, I found the code and in it I saw the opportunity to live a better life 👨‍💻, I have an unrelenting curiosity, everything that you can seeI do by my own it' beacuse I've learned on my own or I was blessed with somebody who teach me 🤝, I like to have interesting or funny conversations 💬, I like to read 📕, play guitar 🎸 and play soccer ⚽️, if I don't know something, I will learn it 💪.
+Hey! 👋
+
+My name is Johan Herrera & I'm from Colombia 🇨🇴
+
+I'm living in USA 🇺🇸
+
+I'm 22 years old and I'm an autodidact.
+
+Become a developer it's a dream for me that I haven’t the opportunity to work in something that I enjoy 👨‍💻
+
+There's a lot of thing that I don't know but doesn’t matter what I'll learn anything to be better ⚡️🧠
+
+I' m a problem solver, I don't like to hear problems, I like to hear options to solve it.
+
+I always listen the critics, I always going to take them good.
+
+I enjoy reading, playing guitar, learning things that blows my mind and laughing :)
 
 ## Projects 
 
