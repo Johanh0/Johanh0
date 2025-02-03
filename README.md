@@ -110,7 +110,7 @@
       </td>
       <td align="center" width="300" height="200">
         <a href="https://github.com/Johanh0/Andrea-Portfolio-React?tab=readme-ov-file" target="_blank">
-          <img src="./assets/andrea-portfolio.png" alt="Andrea Portfolio" style="border-radius: 10px; object-fit: cover; width: 100%; height: 223px"/>
+          <img src="./assets/andrea-portfolio.png" alt="Andrea Portfolio" style="border-radius: 10px;"/>
         </a>
         <br>
         <strong>Andrea Portfolio</strong>
