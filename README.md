@@ -1,36 +1,36 @@
-![](assets/banner.png)
----
-> Front End Developer | JavaScript Developer | Autodidact | Problem Solver | Good Comunication | Smiling 😁.
+#
 
-[My Portfolio](https://johanh0.github.io/My-Portfolio/)
 ---
 ## About Me 
-Hey! 👋
+I'm a passionate software engineer specializing in web development with experience in HTML, CSS, Tailwind, SASS, JavaScript, React, Astro, Node, Express, MySQL, and Git. I focus on creating intuitive and efficient interfaces, leveraging strong time management, leadership skills, and a natural ability to solve problems. Always eager to learn new technologies and enhance my skills.
 
-My name is Johan Herrera & I'm from Colombia 🇨🇴
+## Projects
+<div align="center">
+<table>
+    <tr>
+    <td align="center" width="300" height="200">
+      <img src="https://github.com/KenanGain/KenanGain/blob/main/projectimg/saraai.gif"  alt="Sara AI"/>
+      <br>
+      <strong>Sara AI for Canadian Tire</strong>
+      <br>
+      AI-enhanced shopping experience
+    </td>
+    <td align="center" width="300" height="200">
+      <img src="https://github.com/KenanGain/KenanGain/blob/main/projectimg/weatheraiapp3.gif"  alt="Weather 3D AI App"/>
+      <br>
+      <strong>Weather-3D-AI App</strong>
+      <br>
+      Modern design with shadcn UI, AI integration, Wikipedia, and local news widgets
+    </td>
+    <td align="center" width="300" height="200">
+      <img src="https://github.com/KenanGain/KenanGain/blob/main/projectimg/gemininano.gif" alt="Fast Gemini Nano"/>
+      <br>
+      <strong>Fast-Gemini-Nano</strong>
+      <br>
+      Local LLM Chrome AI – extremely fast, still in development but highly promising
+    </td>
+  </tr>
+</table>
+  </div>
+[My Portfolio](https://johanh0.github.io/My-Portfolio/)
 
-I'm living in USA 🇺🇸
-
-I'm 22 years old and I'm an autodidact.
-
-Become a developer it's a dream for me that I haven’t the opportunity to work in something that I enjoy 👨‍💻
-
-There's a lot of thing that I don't know but doesn’t matter what I'll learn anything to be better ⚡️🧠
-
-I' m a problem solver, I don't like to hear problems, I like to hear options to solve it.
-
-I always listen the critics, I always going to take them good.
-
-I enjoy reading, playing guitar, learning things that blows my mind and laughing :)
-
-## Projects 
-
-- [Sciss Game ( Rock - Paper- Scissor ).](https://github.com/Johanh0/Rock-Paper-Scissor_Game)
-- [Eventor ( WebApp for search local events )](https://github.com/Johanh0/Eventor)
-- [UltraBlog ( Blog about photography )](https://github.com/Johanh0/UltraBlog)
-- [Weather Broadcasts ( WebApp for search the weather )](https://github.com/Johanh0/Weather-Broadcast)
-
-## Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johanh0)](https://github.com/johanh0/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johanh0&theme=default&show_icons=true)
